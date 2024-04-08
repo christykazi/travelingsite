@@ -6,7 +6,7 @@ function App() {
    <ol><ul><h3>travel website</h3></ul></ol>
    <div className="hget">traveling site</div>
    div
-<div>section</div>
+<h3>travelling</h3>
     </div>
 
   );
