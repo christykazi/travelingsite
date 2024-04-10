@@ -7,6 +7,7 @@ function App() {
    <div className="hget">traveling site</div>
    div
 <h1>travelling</h1>
+<h3>section 1</h3>
     </div>
 
   );
