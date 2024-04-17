@@ -5,7 +5,7 @@ function App() {
     <div>
    <ol><ul><h3>travel website</h3></ul></ol>
    <div className="hget">traveling site</div>
-   
+   <div className="section">sect2</div>
     </div>
 
   );
