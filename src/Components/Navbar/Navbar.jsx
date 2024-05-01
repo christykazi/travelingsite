@@ -1,5 +1,5 @@
 import React from 'react'
-import '/navbar.css'
+import './navbar.css'
 import {MdOutlineTravelExplore } from "react-icons/md"
 import {AiFillCloseCircle } from "react-icons/ai"
 import {TbGridDots } from "react-icons/tb"
@@ -15,7 +15,7 @@ const Navbar = () => {
 </a>
         </div>
 
-        <div className="navBar">
+        <div className="navBar ">
             <ul className="navLists flex">
                 <li className="navitem">
                     <a href="#" className="navLink">Home</a>
