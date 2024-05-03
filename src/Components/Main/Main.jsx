@@ -7,7 +7,7 @@ const Main = () => {
 <div className="secTitle">
   <h3 className="title">
     Most visted destinations
-  </div>
+  </h3>
 </div>
   </section>
   )
