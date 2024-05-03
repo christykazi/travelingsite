@@ -9,6 +9,10 @@ const Main = () => {
     Most visted destinations
   </h3>
 </div>
+
+<div className="secContent grid">
+  
+</div>
   </section>
   )
 }
