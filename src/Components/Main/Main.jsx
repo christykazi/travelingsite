@@ -130,7 +130,7 @@ return(
       <div className="price">
         <h5>{fees}</h5>
       </div>
-    </div>
+    
 
     <div className="desc">
       <p>{description}</p>
