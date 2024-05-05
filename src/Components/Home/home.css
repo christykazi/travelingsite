@@ -202,12 +202,12 @@ cursor: pointer;
 
   @media screen and (min-width: 940px){
 .home{
-height: 70vh;
+height: 80vh;
   }
 }
 @media screen and (min-width: 1240px){
   .home{
-  height: 95vh;
+  height: 105vh;
 
   .homeContent{
     padding-left: 0;

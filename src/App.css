@@ -80,3 +80,19 @@ img, video{
 body{
   background: var(--bodyColor);
 }
+
+@media screen and (min-width:12440px){
+.container{
+  width: 80% !important; 
+  margin: auto !important;
+}
+.section{
+  padding: 6rem 0 4rem;
+}
+  }
+
+  @media screen and (min-width: 940px){
+   body{
+    zoom: 1.7;
+   }
+    }
