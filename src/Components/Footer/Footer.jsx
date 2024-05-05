@@ -64,7 +64,9 @@ const Footer = () => {
   <div className="footerLinks grid">
   
  {/*  one */}
-    <div data-aos="fade-up" className="linkGroup">
+    <div data-aos="fade-up"
+        data-aos-duration="3000"
+     className="linkGroup">
       <span className="groupTitle">
         OUR AGENCY
       </span>
@@ -78,7 +80,9 @@ const Footer = () => {
   
   
  {/*  two */}
-    <div data-aos-duration="fade-up"  className="linkGroup">
+    <div data-aos="fade-up"
+    data-aos-duration="4000"
+      className="linkGroup">
       <span className="groupTitle">
         OUR AGENCY
       </span>
@@ -93,7 +97,8 @@ const Footer = () => {
 
   {/* three */}
 
-    <div data-aos="fade-up"  className="linkGroup">
+    <div data-aos="fade-up" 
+        data-aos-duration="5000" className="linkGroup">
       <span className="groupTitle">
         LAST MINUTES
       </span>
@@ -108,7 +113,7 @@ const Footer = () => {
 
 <div className="footerDiv flex">
   <small>BEST TRAVEL WEBSITE THEME</small>
-  <small>COPYRIGHTS RESERVED- CHRISTIANA 2024</small>
+  <small>COPYRIGHTS RESERVED - CHRISTIANA 2024</small>
 </div>
 </div>
 
